@@ -33,4 +33,10 @@ DAX (Data Analysis Expressions): Used for creating calculated measures like Tota
 3. Best Store Location: Connaught Circle contributed the most revenue (₹33.3M or 34.56%).
 4. Time Analysis: Peak sales occurred during mid-morning (10 AM) and evening (6 PM).
 
+### Dataset
+- The dataset used in this project was provided by **WsCube**.  
+- It contains fictitious sales, product, and store data designed for practice and portfolio purposes.  
+- Please note that this data is not representative of actual Starbucks operations.
+
+
 
