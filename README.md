@@ -1,8 +1,8 @@
 # Starbucks-Power-BI-Dashboard
-#Overview:
+## Overview:
 This repository showcases a Power BI dashboard analyzing Starbucks sales, product performance, and revenue trends. The dashboard provides actionable insights into customer behavior, product popularity, and overall business performance.
 
-#Dashboard Features:
+## Dashboard Features:
 Revenue Analysis:
 1. Revenue trends by month (e.g., highest revenue: ₹22.9M in April).
 Hourly revenue breakdown to identify peak business hours.
@@ -23,11 +23,11 @@ Interactive Features:
 5. Filters for product types and store locations.
 Dynamic visuals for exploring specific metrics.
 
-#Technologies Used:
+## Technologies Used:
 Power BI Desktop: For creating interactive dashboards and visualizations.
 DAX (Data Analysis Expressions): Used for creating calculated measures like Total Sales ,Average.
 
-#Insights and Learnings
+## Insights and Learnings
 1. Peak Revenue: April was the highest revenue-generating month, with ₹22.9M in sales.
 2. Top Product Category: Coffee was the highest-selling category, generating ₹33M.
 3. Best Store Location: Connaught Circle contributed the most revenue (₹33.3M or 34.56%).
